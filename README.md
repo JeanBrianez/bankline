@@ -2,6 +2,7 @@
 
 * Projeto de um Domínio de Bankline para gestão de correntistas e movimentação de receitas e despesas.
 * Projeto reproduzido por mim baseado nas aulas do evento Santander Dev Week que ocorreu entre os dias 02-05 de maio de 2022, organizado pelas empresas F1RST, DIO e Santander.
+* Esta rodando apenas nativamente por problemas no Heroku.
 
 ## Tecnologias
 
